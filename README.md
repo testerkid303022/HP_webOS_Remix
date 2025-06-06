@@ -1,5 +1,3 @@
-# HP webOS Remix
-
-This is a project in trying to restore what HP had. I have already told HP that this is going to happen and that this will require some cooperation and I 
-need LG to cooperate too since they have the branding of webOS. Keep in mind that this ISN'T A TV OPERATING SYSTEM, BUT A MOBILE PHONE, TABLET, AND PRINTER 
-OPERATING SYSTEM!!! 
+version https://git-lfs.github.com/spec/v1
+oid sha256:416b6a3de9f8ffaf1975a32ff94c43d68b9bb13773c10be04c68a22151bfb789
+size 351
